@@ -48,8 +48,6 @@
 | 网页 | 可以做什么 | 入口 |
 | --- | --- | --- |
 | 剪辑执行台 / 分镜工作台 | 查看分镜、口播与剪辑安排；当前页面是坦博尔项目示例 | [打开分镜台](https://azu-edit-plan.zup2885.chatgpt.site/#storyboard) |
-| 镜图库 | 浏览镜头参考与素材分类 | [打开镜图库](https://azu-shot-library.zup2885.workers.dev/) |
-| 动效库 | 浏览动效参考与分类 | [打开动效库](https://azu-motion-library-1007.zup2885.chatgpt.site/) |
 | 拍前筹备助手 | 整理汽车内容的拍摄准备 | [打开助手](https://xiaoyi-shoot-assistant.zup2885.chatgpt.site/) |
 
 ## 更多作品与工具
