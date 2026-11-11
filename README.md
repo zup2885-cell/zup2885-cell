@@ -21,8 +21,8 @@
 <p><a href="https://zup2885-cell.github.io/zupeng-portfolio/">打开作品集 →</a> · <a href="https://github.com/zup2885-cell/zupeng-portfolio">查看仓库</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>02 / 阿祖创作台</h3>
-<p>本人作品数据、历史快照、内容研究和评论草稿，集中在一个本地工作台。</p>
+<h3>02 / 数据分析平台</h3>
+<p>把作品指标、数据对比、历史快照和 CSV 导出集中在一个分析平台。</p>
 <p><b>需要本机运行</b></p>
 <p><a href="https://github.com/zup2885-cell/azu-creator-studio">源码与启动说明 →</a></p>
 </td>
