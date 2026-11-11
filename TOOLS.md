@@ -4,7 +4,7 @@
 
 ## 祖老大的工具箱
 
-把常用创作工具集中到一个 Mac 悬浮入口。这是我安装使用并设置个人名称的工具箱，原项目由 **zurenze1** 开发，采用 MIT 许可。个人名称和配置不等于重新开发了整套软件。
+把常用创作工具集中到一个 Mac 悬浮入口。这是我安装使用并设置个人名称的工具箱，原项目由 **zurenze1** 开发，采用 MIT 许可。电脑上的个人配置与上游公开版分别说明。
 
 [我的源码副本](https://github.com/zup2885-cell/screenshot-translate-video-downloader) · [原项目](https://github.com/zurenze1/screenshot-translate-video-downloader) · [最新 Mac 安装包](https://github.com/zurenze1/screenshot-translate-video-downloader/releases/latest)
 
