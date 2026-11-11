@@ -61,18 +61,25 @@
 | **通告本与戏伴** | 团队协作工作台演示与提案；通告本使用虚构示例数据 | [通告本演示](https://zup2885-cell.github.io/tonggaoben-showcase/tonggaoben/) · [仓库](https://github.com/zup2885-cell/tonggaoben-showcase) |
 | **Skills 工具箱** | 内容策划、创作、视频处理、数据采集等 AI 工作流 | [分类目录与说明](https://github.com/zup2885-cell/skills) |
 
-## 精选开源 · 生活里用得上的工具
+## 我的开源适配工具 · 在线使用
 
-以下是我筛选并 Fork 保存的第三方项目，**原作者、许可证和来源均保留，不是我的原创**。同类用途只收录一个，下载优先使用原作者的正式版本。
+使用阿祖的名称与自己的部署入口，基于现有开源项目适配；保留原作者、许可证和完整修改源码。
 
-| 工具 | 解决什么问题 | 我的 Fork | 官方使用入口 |
+| 工具 | 可以做什么 | 使用入口 | 源码与来源 |
 | --- | --- | --- | --- |
-| **LocalSend** | 同一局域网内，跨设备传文件和文字 | [源码副本](https://github.com/zup2885-cell/localsend) | [官方下载](https://localsend.org/download) |
-| **BentoPDF** | 合并、拆分、转换和整理 PDF | [源码副本](https://github.com/zup2885-cell/bentopdf) | [在线使用](https://www.bentopdf.com/) |
-| **Czkawka** | 查找重复文件、相似图片等，先预览再决定是否处理 | [源码副本](https://github.com/zup2885-cell/czkawka) | [官方发布页](https://github.com/qarmin/czkawka/releases) |
-| **draw.io Desktop** | 画流程图、结构图和思维导图 | [源码副本](https://github.com/zup2885-cell/drawio-desktop) | [在线画图](https://app.diagrams.net/) · [桌面版](https://github.com/jgraph/drawio-desktop/releases) |
+| **阿祖 PDF 工具** | 合并、拆分、转换和整理 PDF；浏览器内处理，部分组件按需下载 | [打开 PDF 工具 →](https://zup2885-cell.github.io/bentopdf/) | [适配源码与说明](https://github.com/zup2885-cell/bentopdf/blob/main/ADAPTATION-AZU.md) · 基于 BentoPDF |
+| **阿祖画图工具** | 绘制流程图、内容结构图与思维导图；保存或导出文件 | [打开画图工具 →](https://zup2885-cell.github.io/drawio-desktop/) | [适配源码与说明](https://github.com/zup2885-cell/drawio-desktop/tree/dev/azu-web) · 基于 draw.io 核心 |
 
-维护状态、许可区别与使用建议见 [精选开源使用导航](OPEN-SOURCE.md)。Fork 是源码副本，不等于已经部署成我的在线服务。
+## 更多精选开源 · 源码与下载
+
+以下两项暂保留上游下载方式，没有另做阿祖品牌安装包。同类用途只收录一个。
+
+| 工具 | 解决什么问题 | 源码副本 | 使用入口 |
+| --- | --- | --- | --- |
+| **LocalSend** | 同一局域网内，跨设备传文件和文字 | [我的源码副本](https://github.com/zup2885-cell/localsend) | [官方下载](https://localsend.org/download) |
+| **Czkawka** | 查找重复文件、相似图片等，先预览再决定是否处理 | [我的源码副本](https://github.com/zup2885-cell/czkawka) | [官方发布页](https://github.com/qarmin/czkawka/releases) |
+
+维护状态、许可区别、实际部署和验证范围见 [开源工具使用导航](OPEN-SOURCE.md)。
 
 ## 使用前看这里
 
