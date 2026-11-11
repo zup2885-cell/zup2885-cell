@@ -56,8 +56,20 @@
 | --- | --- | --- |
 | **Memo 备忘录** | 便签、日历与提醒效果原型；当前不提供关闭页面后的后台提醒 | [在线体验](https://zup2885-cell.github.io/memo/) · [仓库](https://github.com/zup2885-cell/memo) |
 | **剪辑音效库** | 搜索、试听和下载剪辑音效；素材使用权以各自来源为准 | [在线音效库](https://zup2885-cell.github.io/sound-effects-library/) · [仓库](https://github.com/zup2885-cell/sound-effects-library) |
+| **剪映动效模板** | 改文字、换图片或视频，导出无声视频后导入剪映；现有模板为影像镂空文字 | [打开模板](https://azu-shot-library.zup2885.workers.dev/effects/split-type-reveal.html) · [功能与格式说明](TOOLS.md#剪映动效模板) |
 | **通告本与戏伴** | 团队协作工作台演示与提案；通告本使用虚构示例数据 | [通告本演示](https://zup2885-cell.github.io/tonggaoben-showcase/tonggaoben/) · [仓库](https://github.com/zup2885-cell/tonggaoben-showcase) |
 | **Skills 工具箱** | 内容策划、创作、视频处理、数据采集等 AI 工作流 | [分类目录与说明](https://github.com/zup2885-cell/skills) |
+
+## 我在用的电脑工具
+
+这两项已在我的 Mac 安装。保留原作者和来源；下面提供我的源码副本、官方安装包及详细说明，不把安装使用写成原创开发。
+
+| 工具 | 主要功能 | 源码与使用入口 |
+| --- | --- | --- |
+| **祖老大的工具箱 · 本机配置** | 翻译文字与截图、暂存素材、下载视频、截取片段；一个悬浮入口打开常用工具 | [详细功能](TOOLS.md#祖老大的工具箱) · [我的源码副本](https://github.com/zup2885-cell/screenshot-translate-video-downloader) · [上游 Mac 下载](https://github.com/zurenze1/screenshot-translate-video-downloader/releases/latest) |
+| **Purrge · 磁盘空间管理** | 检查硬盘剩余空间、低空间提醒、扫描大文件与缓存、辅助分析并由本人确认清理 | [详细功能](TOOLS.md#purrge-磁盘空间管理) · [我的命令行源码副本](https://github.com/zup2885-cell/purrge) · [官方 Mac 下载](https://static.yellowrabbit.online/purrge/index.html) |
+
+工具箱上游代码采用 MIT 许可。Purrge 的 Mac 图形界面未开源，命令行代码采用非商业许可；它检查的是磁盘空间，不是运行内存（RAM）。
 
 ## 我的开源适配工具 · 在线使用
 
